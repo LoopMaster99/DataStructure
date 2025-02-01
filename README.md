@@ -1,2 +1,2 @@
 # recursion
-This is a repo for solving question based on recursion
+This repository is based on recursion problems.
