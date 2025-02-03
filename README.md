@@ -1,4 +1,4 @@
 # About
-This repository contains solution on Dsa Programming problems.
+This repository contains solution on Data Structures Problems.
 <br>
 Author - Krishna Bansal
