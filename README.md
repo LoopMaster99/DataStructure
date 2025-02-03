@@ -1,2 +1,4 @@
 # About
-This repository is based on recursion problems.
+This repository contains solution on Dsa Programming problems.
+<br>
+Author - Krishna Bansal
