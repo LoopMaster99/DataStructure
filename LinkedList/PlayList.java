@@ -17,7 +17,7 @@ public class PlayList {
         Scanner scan = new Scanner(System.in);
 
         int n = scan.nextInt();
-        scan.nextLine();
+        scan.nextLine(); // Consume newline after nextInt()
 
         Node head = new Node("", "");
         Node temp = head;
