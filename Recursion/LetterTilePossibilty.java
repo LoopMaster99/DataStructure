@@ -8,8 +8,6 @@ public class LetterTilePossibilty {
     private static void solve(String tiles, Set<String> set, StringBuilder sb, boolean[] arr){
         set.add(sb.toString());
 
-        //if(ind == tiles.length())  return;
-
         for(int i = 0; i < tiles.length(); i++){
             if(arr[i] == true) continue;
 
@@ -25,8 +23,7 @@ public class LetterTilePossibilty {
     public static int numTilePossibilities(String tiles){
         Set<String> set = new HashSet<>();
         boolean[] arr = new boolean[tiles.length()];
-        StringBuilder sb = new StringBuilder();
-        solve(tiles, set, sb, arr);
+        solve(tiles, set, new StringBuilder(), arr);
         return set.size() - 1;
     }
 
