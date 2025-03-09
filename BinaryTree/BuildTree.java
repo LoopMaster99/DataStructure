@@ -17,6 +17,8 @@ public class BuildTree {
         TreeNode root = tree.buildTree(nums, n);
         
         // now pass root in any function
+
+        scan.close();
     }
 }
 
