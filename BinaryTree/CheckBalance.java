@@ -1,6 +1,10 @@
 package BinaryTree;
 
 public class CheckBalance {
+    public boolean isBalanced(TreeNode root) {
+        return depth(root) != -1;
+    }
+    
     private int depth(TreeNode root){
         if(root == null) return 0;
 
@@ -13,8 +17,5 @@ public class CheckBalance {
         if(Math.abs(left_depth - right_depth) > 1) return -1;
         
         return 1 + Math.max(left_depth, right_depth);
-    }
-    public boolean isBalanced(TreeNode root) {
-        return depth(root) != -1;
     }
 }
