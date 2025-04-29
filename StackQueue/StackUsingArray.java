@@ -30,6 +30,7 @@ public class StackUsingArray {
             top = top - 1;
             return val;
         }
+        return -1;
     }
 
     void peek(){
