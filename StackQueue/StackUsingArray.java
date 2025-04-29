@@ -25,14 +25,16 @@ public class StackUsingArray {
 
     int pop(){
         if(top == -1) System.out.println("\"UnderFlow\", please push element first");
-        int val = arr[top];
-        top = top - 1;
-        return val;
+        else{
+            int val = arr[top];
+            top = top - 1;
+            return val;
+        }
     }
 
     void peek(){
         if(top == -1) System.out.println("\"UnderFlow\", stack is empty");    
-        System.out.println(arr[top]);
+        else System.out.println(arr[top]);
     }
 
     void size(){
