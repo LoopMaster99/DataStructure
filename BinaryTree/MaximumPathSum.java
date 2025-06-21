@@ -1,5 +1,8 @@
 package BinaryTree;
 
+/* Maximum Path Sum - Find the path in the tree (anywhere, not just root-to-leaf)
+ that gives the biggest total sum of node values. */
+
 public class MaximumPathSum {
     // helper to get max gain from each node and update max path sum
     private int height(TreeNode root, int[] maxi) {
