@@ -1,6 +1,6 @@
 package Graph;
 
-public class FloodFill {
+public class FloodFill_DFS {
     int rows, cols;
     
     private void dfs(int row, int col, int[][] image, int currColor, int newColor){
