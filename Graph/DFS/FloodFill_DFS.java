@@ -1,4 +1,4 @@
-package Graph;
+package Graph.DFS;
 
 public class FloodFill_DFS {
     int rows, cols;
