@@ -11,12 +11,14 @@ Author - Krishna Bansal
 | [0001-two-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/LoopMaster99/DataStructure/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/LoopMaster99/DataStructure/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
@@ -27,4 +29,5 @@ Author - Krishna Bansal
 | ------- |
 | [0015-3sum](https://github.com/LoopMaster99/DataStructure/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
