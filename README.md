@@ -28,6 +28,7 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -53,9 +54,14 @@ Author - Krishna Bansal
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
