@@ -17,6 +17,7 @@ Author - Krishna Bansal
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0275-h-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0275-h-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
