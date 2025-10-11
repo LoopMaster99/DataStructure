@@ -17,6 +17,7 @@ Author - Krishna Bansal
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
+| [0274-h-index](https://github.com/LoopMaster99/DataStructure/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0275-h-index-ii) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ Author - Krishna Bansal
 | [0015-3sum](https://github.com/LoopMaster99/DataStructure/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
+| [0274-h-index](https://github.com/LoopMaster99/DataStructure/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +68,8 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/LoopMaster99/DataStructure/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
