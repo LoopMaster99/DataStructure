@@ -6,9 +6,9 @@ class Solution {
         while(low <= high){
             int mid = (low + high) / 2;
 
-            int len = (n - mid);
-            if(citations[mid] >= len){
-                ans = Math.max(ans, len);
+            int h = (n - mid);
+            if(citations[mid] >= h){
+                ans = h;
                 high = mid - 1;
             }
             else low = mid + 1;
