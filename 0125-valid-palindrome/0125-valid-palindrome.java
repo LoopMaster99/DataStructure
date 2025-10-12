@@ -6,10 +6,13 @@ class Solution {
         while(i < j){
             char left = copy.charAt(i), right = copy.charAt(j);
 
-            if(left == ' ') i++;
-            else if(right == ' ') j--;
-            else if(!Character.isLetter(left) && !Character.isDigit(left)) i++;
-            else if(!Character.isLetter(right) && !Character.isDigit(right)) j--;
+            
+            if(!Character.isLetter(left)
+             && !Character.isDigit(left)) i++;
+
+            else if(!Character.isLetter(right)
+             && !Character.isDigit(right)) j--;
+             
             else if(left == right){
                 i++;
                 j--;
