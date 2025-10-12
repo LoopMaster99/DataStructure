@@ -26,6 +26,7 @@ Author - Krishna Bansal
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
 ## Counting Sort
 |  |
 | ------- |
