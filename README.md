@@ -14,6 +14,7 @@ Author - Krishna Bansal
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LoopMaster99/DataStructure/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/LoopMaster99/DataStructure/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -41,6 +42,7 @@ Author - Krishna Bansal
 | ------- |
 | [0015-3sum](https://github.com/LoopMaster99/DataStructure/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/LoopMaster99/DataStructure/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/LoopMaster99/DataStructure/tree/master/0274-h-index) |
 ## Dynamic Programming
