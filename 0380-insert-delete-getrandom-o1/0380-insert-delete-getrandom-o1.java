@@ -22,12 +22,10 @@ class RandomizedSet {
         if(map.containsKey(val)){
             int ind1 = map.get(val);
             int ind2 = list.size() - 1;
-            map.put(list.get(ind2), ind1);
+            int lastVal = list.get(ind2);
 
-            int temp = list.get(ind1);
             list.set(ind1, list.get(ind2));
-            list.set(ind2, temp);
-
+            map.put(lastVal, ind1);
             
             list.remove(ind2);
             map.remove(val);
