@@ -22,6 +22,7 @@ Author - Krishna Bansal
 | [0228-summary-ranges](https://github.com/LoopMaster99/DataStructure/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/LoopMaster99/DataStructure/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0275-h-index-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Author - Krishna Bansal
 | [0001-two-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
+| [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +88,16 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
