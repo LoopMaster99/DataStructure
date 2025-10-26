@@ -3,26 +3,18 @@ class Solution {
         int n1 = s.length(), n2 = t.length();
         if(n1 != n2) return false;
 
-        Map<Character, Character> map1 = new HashMap<>();
-        Map<Character, Character> map2 = new HashMap<>();
+        Map<Character, Integer> map1 = new HashMap<>();
+        Map<Character, Integer> map2 = new HashMap<>();
 
         for(int i = 0; i < n1; i++){
             char c1 = s.charAt(i);
             char c2 = t.charAt(i);
 
-            if(map1.containsKey(c1)){
-                if(map1.get(c1) != c2) return false;
-            }
-            else{
-                map1.put(c1, c2);
-            }
+            if(!Objects.equals(map1.get(c1), map2.get(c2)))
+                return false;
 
-            if(map2.containsKey(c2)){
-                if(map2.get(c2) != c1) return false;
-            }
-            else{
-                map2.put(c2, c1);
-            }
+            map1.put(c1, i);
+            map2.put(c2, i);    
         }
 
         return true;
