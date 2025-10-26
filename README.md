@@ -13,6 +13,7 @@ Author - Krishna Bansal
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/LoopMaster99/DataStructure/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/LoopMaster99/DataStructure/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@ Author - Krishna Bansal
 | [0001-two-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/LoopMaster99/DataStructure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LoopMaster99/DataStructure/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LoopMaster99/DataStructure/tree/master/0290-word-pattern) |
@@ -49,6 +51,7 @@ Author - Krishna Bansal
 | ------- |
 | [0015-3sum](https://github.com/LoopMaster99/DataStructure/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/LoopMaster99/DataStructure/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/LoopMaster99/DataStructure/tree/master/0242-valid-anagram) |
@@ -85,6 +88,7 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/LoopMaster99/DataStructure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LoopMaster99/DataStructure/tree/master/0242-valid-anagram) |
