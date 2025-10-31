@@ -33,6 +33,7 @@ Author - Krishna Bansal
 | [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/LoopMaster99/DataStructure/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/LoopMaster99/DataStructure/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ Author - Krishna Bansal
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/LoopMaster99/DataStructure/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/LoopMaster99/DataStructure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LoopMaster99/DataStructure/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LoopMaster99/DataStructure/tree/master/0290-word-pattern) |
@@ -107,6 +109,7 @@ Author - Krishna Bansal
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/LoopMaster99/DataStructure/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
