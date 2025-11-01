@@ -44,6 +44,7 @@ Author - Krishna Bansal
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/LoopMaster99/DataStructure/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/LoopMaster99/DataStructure/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/LoopMaster99/DataStructure/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/LoopMaster99/DataStructure/tree/master/0205-isomorphic-strings) |
@@ -85,6 +86,7 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/LoopMaster99/DataStructure/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
@@ -96,6 +98,7 @@ Author - Krishna Bansal
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/LoopMaster99/DataStructure/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/LoopMaster99/DataStructure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LoopMaster99/DataStructure/tree/master/0242-valid-anagram) |
