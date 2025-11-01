@@ -21,6 +21,7 @@ Author - Krishna Bansal
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/LoopMaster99/DataStructure/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/LoopMaster99/DataStructure/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/LoopMaster99/DataStructure/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0275-h-index-ii) |
@@ -44,6 +45,7 @@ Author - Krishna Bansal
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/LoopMaster99/DataStructure/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/LoopMaster99/DataStructure/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/LoopMaster99/DataStructure/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LoopMaster99/DataStructure/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
@@ -82,6 +84,7 @@ Author - Krishna Bansal
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
