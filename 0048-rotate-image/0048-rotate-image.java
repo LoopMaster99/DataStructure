@@ -20,10 +20,8 @@ class Solution {
         int n = matrix.length, m = matrix[0].length;
 
         for(int i = 0; i < n - 1; i++){
-            for(int j = 1; j < m; j++){
-                if(i < j && i != j ){
-                    swap(matrix, i, j);
-                }
+            for(int j = i + 1; j < m; j++){
+                swap(matrix, i, j);
             }
         }
 
