@@ -13,6 +13,7 @@ Author - Krishna Bansal
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/LoopMaster99/DataStructure/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LoopMaster99/DataStructure/tree/master/0055-jump-game) |
@@ -118,10 +119,12 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/LoopMaster99/DataStructure/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0054-spiral-matrix) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/LoopMaster99/DataStructure/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/LoopMaster99/DataStructure/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
