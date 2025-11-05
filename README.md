@@ -23,6 +23,7 @@ Author - Krishna Bansal
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/LoopMaster99/DataStructure/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/LoopMaster99/DataStructure/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/LoopMaster99/DataStructure/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/LoopMaster99/DataStructure/tree/master/0228-summary-ranges) |
@@ -80,6 +81,7 @@ Author - Krishna Bansal
 | [0055-jump-game](https://github.com/LoopMaster99/DataStructure/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/LoopMaster99/DataStructure/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/LoopMaster99/DataStructure/tree/master/0135-candy) |
 ## Binary Search
 |  |
 | ------- |
