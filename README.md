@@ -30,6 +30,7 @@ Author - Krishna Bansal
 | [0274-h-index](https://github.com/LoopMaster99/DataStructure/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0275-h-index-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
+| [0496-next-greater-element-i](https://github.com/LoopMaster99/DataStructure/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Author - Krishna Bansal
 | [0290-word-pattern](https://github.com/LoopMaster99/DataStructure/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/LoopMaster99/DataStructure/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/LoopMaster99/DataStructure/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -145,4 +147,12 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/LoopMaster99/DataStructure/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/LoopMaster99/DataStructure/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
