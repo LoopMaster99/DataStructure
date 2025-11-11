@@ -46,6 +46,7 @@ Author - Krishna Bansal
 | ------- |
 | [0001-two-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/LoopMaster99/DataStructure/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LoopMaster99/DataStructure/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
@@ -105,6 +106,7 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/LoopMaster99/DataStructure/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LoopMaster99/DataStructure/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/LoopMaster99/DataStructure/tree/master/0076-minimum-window-substring) |
@@ -128,6 +130,7 @@ Author - Krishna Bansal
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/LoopMaster99/DataStructure/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/LoopMaster99/DataStructure/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/LoopMaster99/DataStructure/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
