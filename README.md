@@ -109,6 +109,7 @@ Author - Krishna Bansal
 | [0012-integer-to-roman](https://github.com/LoopMaster99/DataStructure/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LoopMaster99/DataStructure/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/LoopMaster99/DataStructure/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/LoopMaster99/DataStructure/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/LoopMaster99/DataStructure/tree/master/0205-isomorphic-strings) |
