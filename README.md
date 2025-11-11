@@ -39,6 +39,7 @@ Author - Krishna Bansal
 | [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/LoopMaster99/DataStructure/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/LoopMaster99/DataStructure/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/LoopMaster99/DataStructure/tree/master/0392-is-subsequence) |
 ## Hash Table
@@ -112,6 +113,7 @@ Author - Krishna Bansal
 | [0058-length-of-last-word](https://github.com/LoopMaster99/DataStructure/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/LoopMaster99/DataStructure/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/LoopMaster99/DataStructure/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/LoopMaster99/DataStructure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LoopMaster99/DataStructure/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LoopMaster99/DataStructure/tree/master/0290-word-pattern) |
