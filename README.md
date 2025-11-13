@@ -107,6 +107,7 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/LoopMaster99/DataStructure/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/LoopMaster99/DataStructure/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LoopMaster99/DataStructure/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
