@@ -36,6 +36,7 @@ Author - Krishna Bansal
 | ------- |
 | [0015-3sum](https://github.com/LoopMaster99/DataStructure/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LoopMaster99/DataStructure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
@@ -109,6 +110,7 @@ Author - Krishna Bansal
 | [0003-longest-substring-without-repeating-characters](https://github.com/LoopMaster99/DataStructure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/LoopMaster99/DataStructure/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/LoopMaster99/DataStructure/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LoopMaster99/DataStructure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LoopMaster99/DataStructure/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/LoopMaster99/DataStructure/tree/master/0058-length-of-last-word) |
@@ -162,4 +164,8 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/LoopMaster99/DataStructure/tree/master/0496-next-greater-element-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LoopMaster99/DataStructure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
