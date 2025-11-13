@@ -2,12 +2,16 @@ class Solution {
     public String convert(String s, int numRows) {
         if(numRows == 1) return s;
 
-        Map<Integer, List<Character>> map = new HashMap<>();
+        StringBuilder[] sb = new StringBuilder[numRows];
+        for(int i = 0; i < numRows; i++){
+            sb[i] = new StringBuilder();
+        }
 
         int curr = 0;
         boolean dir = true;
-        for(int i = 0; i < s.length(); i++){
-            map.computeIfAbsent(curr, k -> new ArrayList<>()).add(s.charAt(i));
+        for(char c : s.toCharArray()){
+            sb[curr].append(c);
+
             if(dir){
                 curr++;
                 if(curr == numRows - 1) dir = false;
@@ -18,15 +22,11 @@ class Solution {
             }
         }
 
-        StringBuilder sb = new StringBuilder();
-        for(int i = 0; i < numRows; i++){
-            if(map.containsKey(i)){
-                List<Character> list = map.get(i);
-                for(char c : list)
-                    sb.append(c);
-            }    
+        StringBuilder res = new StringBuilder();
+        for(StringBuilder temp : sb){
+            res.append(temp); 
         }
 
-        return sb.toString();
+        return res.toString();
     }
 }
