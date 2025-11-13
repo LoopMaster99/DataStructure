@@ -18,6 +18,7 @@ Author - Krishna Bansal
 | [0054-spiral-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LoopMaster99/DataStructure/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/LoopMaster99/DataStructure/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/LoopMaster99/DataStructure/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/LoopMaster99/DataStructure/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -114,6 +115,7 @@ Author - Krishna Bansal
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LoopMaster99/DataStructure/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/LoopMaster99/DataStructure/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/LoopMaster99/DataStructure/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/LoopMaster99/DataStructure/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/LoopMaster99/DataStructure/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LoopMaster99/DataStructure/tree/master/0151-reverse-words-in-a-string) |
@@ -156,6 +158,7 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/LoopMaster99/DataStructure/tree/master/0068-text-justification) |
 ## Stack
 |  |
 | ------- |
