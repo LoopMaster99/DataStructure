@@ -25,7 +25,7 @@ class Solution {
             }
             if(ind >= n){    
                 if (list.size() == 0) break;
-                
+
                 String sp = String.join(" ", list);
                 int left = maxWidth - sp.length();
                 sb.append(sp);
@@ -45,15 +45,14 @@ class Solution {
                 int perGap = rem / gap;
                 int extra = rem % gap;
 
-                while(count > 0){
-                    int minGap = perGap;
-                    int x = list.size() - count;
-                    count--;
+                for(int i = 0; i < list.size(); i++){
+                    sb.append(list.get(i));
 
-                    sb.append(list.get(x));
-                    if(count != 0){
-                        while(minGap-- > 0) sb.append(" ");
-                        if(extra-- > 0) sb.append(" ");
+                    if(i != list.size() - 1){
+                        int spaces = perGap + (extra > 0 ? 1 : 0);
+                        extra--;
+
+                        while(spaces-- > 0) sb.append(" ");
                     }
                 }
             }
