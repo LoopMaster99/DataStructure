@@ -25,6 +25,7 @@ Author - Krishna Bansal
 | [0128-longest-consecutive-sequence](https://github.com/LoopMaster99/DataStructure/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/LoopMaster99/DataStructure/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/LoopMaster99/DataStructure/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LoopMaster99/DataStructure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/LoopMaster99/DataStructure/tree/master/0228-summary-ranges) |
@@ -42,6 +43,7 @@ Author - Krishna Bansal
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/LoopMaster99/DataStructure/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LoopMaster99/DataStructure/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LoopMaster99/DataStructure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/LoopMaster99/DataStructure/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/LoopMaster99/DataStructure/tree/master/0392-is-subsequence) |
 ## Hash Table
@@ -91,6 +93,7 @@ Author - Krishna Bansal
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LoopMaster99/DataStructure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0275-h-index-ii) |
 ## Sliding Window
