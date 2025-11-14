@@ -9,6 +9,7 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/LoopMaster99/DataStructure/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LoopMaster99/DataStructure/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
@@ -36,6 +37,7 @@ Author - Krishna Bansal
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LoopMaster99/DataStructure/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LoopMaster99/DataStructure/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/LoopMaster99/DataStructure/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LoopMaster99/DataStructure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -85,6 +87,7 @@ Author - Krishna Bansal
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LoopMaster99/DataStructure/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LoopMaster99/DataStructure/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
