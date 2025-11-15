@@ -183,4 +183,20 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/LoopMaster99/DataStructure/tree/master/0273-integer-to-english-words) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
