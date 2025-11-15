@@ -127,6 +127,7 @@ Author - Krishna Bansal
 | [0151-reverse-words-in-a-string](https://github.com/LoopMaster99/DataStructure/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/LoopMaster99/DataStructure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LoopMaster99/DataStructure/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/LoopMaster99/DataStructure/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/LoopMaster99/DataStructure/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/LoopMaster99/DataStructure/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/LoopMaster99/DataStructure/tree/master/0392-is-subsequence) |
@@ -147,6 +148,7 @@ Author - Krishna Bansal
 | [0012-integer-to-roman](https://github.com/LoopMaster99/DataStructure/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/LoopMaster99/DataStructure/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/LoopMaster99/DataStructure/tree/master/0202-happy-number) |
+| [0273-integer-to-english-words](https://github.com/LoopMaster99/DataStructure/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -177,4 +179,8 @@ Author - Krishna Bansal
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LoopMaster99/DataStructure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/LoopMaster99/DataStructure/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
