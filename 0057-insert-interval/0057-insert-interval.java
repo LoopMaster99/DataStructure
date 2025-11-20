@@ -20,7 +20,6 @@ class Solution {
             i++;
         }
 
-
         res.add(newInterval);
         while (i < n) {
             res.add(intervals[i]);
