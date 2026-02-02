@@ -1,7 +1,6 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        Set<Integer> path = new HashSet<>();
-        boolean[] visited = new boolean[n];
+        Set<Integer> visited = new HashSet<>();
 
         List<List<Integer>> adj = new ArrayList<>();
         for(int i = 0; i < n; i++) adj.add(new ArrayList<>());
@@ -14,21 +13,21 @@ class Solution {
             adj.get(to).add(from);
         }
         
-        dfs(source, visited, path, adj);
-        if(path.contains(destination)){
+        dfs(source, destination, visited, adj);
+        if(visited.contains(destination)){
             return true;
         }
 
         return false;
     }
 
-    private void dfs(int sr, boolean[] visited, Set<Integer> path, List<List<Integer>> adj){
-        path.add(sr);
-        visited[sr] = true;
+    private void dfs(int sr, int dest, Set<Integer> visited, List<List<Integer>> adj){
+        visited.add(sr);
+        if(sr == dest) return;
 
         for(int neighbour : adj.get(sr)){
-            if(!visited[neighbour]){
-                dfs(neighbour, visited, path, adj);
+            if(!visited.contains(neighbour)){
+                dfs(neighbour, dest, visited, adj);
             }
         }
     }
