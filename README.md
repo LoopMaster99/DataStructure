@@ -196,16 +196,26 @@ Author - Krishna Bansal
 | [0100-same-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/LoopMaster99/DataStructure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/LoopMaster99/DataStructure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0226-invert-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/LoopMaster99/DataStructure/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/LoopMaster99/DataStructure/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
