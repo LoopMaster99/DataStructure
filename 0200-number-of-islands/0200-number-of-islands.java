@@ -5,37 +5,47 @@ class Solution {
         rows = grid.length;
         cols = grid[0].length;
 
+        int islands = 0;
         boolean[][] visited = new boolean[rows][cols];
-        int noOfIslands = 0;
+        Queue<int[]> q = new LinkedList<>();
 
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (grid[i][j] == '1' && !visited[i][j]) {
-                    dfs(i, j, grid, visited);
-                    noOfIslands++;
+                    bfs(i, j, grid, visited, q);
+                    islands++;
                 }
             }
         }
 
-        return noOfIslands;
+        return islands;
     }
 
-    private void dfs(int sr, int sc, char[][] grid, boolean[][] visited) {
-        if (sr < 0 || sr >= rows || sc < 0 || sc >= cols ||
-                grid[sr][sc] == '0' || visited[sr][sc])
-            return;
+    private void bfs(int row, int col, char[][] grid, boolean[][] visited, Queue<int[]> q) {
+        visited[row][col] = true;
+        q.offer(new int[] { row, col });
 
-        visited[sr][sc] = true;
+        while (!q.isEmpty()) {
+            int[] temp = q.poll();
+            int sr = temp[0], sc = temp[1];
 
-        int[][] adjList = {
-                { sr - 1, sc },
-                { sr + 1, sc },
-                { sr, sc - 1 },
-                { sr, sc + 1 }
-        };
+            int[][] adj = {
+                    { sr - 1, sc },
+                    { sr + 1, sc },
+                    { sr, sc - 1 },
+                    { sr, sc + 1 }
+            };
 
-        for (int[] neighbour : adjList) {
-            dfs(neighbour[0], neighbour[1], grid, visited);
+            for (int[] neighbour : adj) {
+                int r = neighbour[0], c = neighbour[1];
+
+                if (r < 0 || c < 0 || r >= rows || c >= cols ||
+                        visited[r][c] || grid[r][c] == '0')
+                    continue;
+
+                visited[r][c] = true;
+                q.offer(new int[]{r, c});
+            }
         }
     }
 }
