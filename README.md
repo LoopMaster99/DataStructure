@@ -28,6 +28,7 @@ Author - Krishna Bansal
 | [0134-gas-station](https://github.com/LoopMaster99/DataStructure/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/LoopMaster99/DataStructure/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LoopMaster99/DataStructure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/LoopMaster99/DataStructure/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/LoopMaster99/DataStructure/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/LoopMaster99/DataStructure/tree/master/0228-summary-ranges) |
@@ -144,6 +145,7 @@ Author - Krishna Bansal
 | [0036-valid-sudoku](https://github.com/LoopMaster99/DataStructure/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/LoopMaster99/DataStructure/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/LoopMaster99/DataStructure/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/LoopMaster99/DataStructure/tree/master/0733-flood-fill) |
 ## Math
 |  |
@@ -197,6 +199,7 @@ Author - Krishna Bansal
 | ------- |
 | [0100-same-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/LoopMaster99/DataStructure/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/LoopMaster99/DataStructure/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LoopMaster99/DataStructure/tree/master/1971-find-if-path-exists-in-graph) |
@@ -205,6 +208,7 @@ Author - Krishna Bansal
 | ------- |
 | [0100-same-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/LoopMaster99/DataStructure/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/LoopMaster99/DataStructure/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LoopMaster99/DataStructure/tree/master/1971-find-if-path-exists-in-graph) |
@@ -217,6 +221,7 @@ Author - Krishna Bansal
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LoopMaster99/DataStructure/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LoopMaster99/DataStructure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
