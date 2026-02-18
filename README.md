@@ -37,6 +37,7 @@ Author - Krishna Bansal
 | [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/LoopMaster99/DataStructure/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/LoopMaster99/DataStructure/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/LoopMaster99/DataStructure/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Author - Krishna Bansal
 | [0054-spiral-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/LoopMaster99/DataStructure/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/LoopMaster99/DataStructure/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/LoopMaster99/DataStructure/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Author - Krishna Bansal
 | [0200-number-of-islands](https://github.com/LoopMaster99/DataStructure/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/LoopMaster99/DataStructure/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/LoopMaster99/DataStructure/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LoopMaster99/DataStructure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
