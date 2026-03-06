@@ -36,6 +36,7 @@ Author - Krishna Bansal
 | [0275-h-index-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0275-h-index-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LoopMaster99/DataStructure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/LoopMaster99/DataStructure/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/LoopMaster99/DataStructure/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/LoopMaster99/DataStructure/tree/master/0994-rotting-oranges) |
 ## Two Pointers
@@ -88,6 +89,7 @@ Author - Krishna Bansal
 | [0055-jump-game](https://github.com/LoopMaster99/DataStructure/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LoopMaster99/DataStructure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/LoopMaster99/DataStructure/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Author - Krishna Bansal
 | [0048-rotate-image](https://github.com/LoopMaster99/DataStructure/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/LoopMaster99/DataStructure/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/LoopMaster99/DataStructure/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/LoopMaster99/DataStructure/tree/master/0994-rotting-oranges) |
 ## Math
@@ -212,6 +215,7 @@ Author - Krishna Bansal
 | [0104-maximum-depth-of-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/LoopMaster99/DataStructure/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/LoopMaster99/DataStructure/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/LoopMaster99/DataStructure/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/LoopMaster99/DataStructure/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/LoopMaster99/DataStructure/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LoopMaster99/DataStructure/tree/master/1971-find-if-path-exists-in-graph) |
